@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300" height="200"/>
+  <img src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif" width="300" height="200"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/sergey-aleksanov-10619125b/">
